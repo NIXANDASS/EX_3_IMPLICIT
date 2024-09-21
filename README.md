@@ -83,7 +83,10 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+![ex3 1](https://github.com/user-attachments/assets/6947f6ec-9b7e-4a45-ac85-61069ff487ef)
 
+![ex3 2](https://github.com/user-attachments/assets/abd82201-3706-4a21-9e81-0bbc68e150a1)
+![ex3 3](https://github.com/user-attachments/assets/bc877573-0862-4693-bb22-cc831b38aa9e)
 
 
 ## RESULT
